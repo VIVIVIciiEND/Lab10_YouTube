@@ -40,6 +40,6 @@ index.html`
 → Open with Live Server--
 ## Структура проекта--
 ## Вывод
-
+![картинка](https://www.meme-arsenal.com/memes/0c5edff86366bbd6f4f976be73a92026.jpg)
 ## Дата выполнения
 [Укажите дату завершения работы, например: 13.02.2026]
